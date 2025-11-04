@@ -5,3 +5,5 @@ url: "https://your_github_username.github.io/shoutcaster"
 baseurl: ""
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-feed
