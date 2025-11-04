@@ -1,9 +1,0 @@
-title: "AI Shoutcaster"
-description: "An automated Valorant esports commentary generator using YOLO and LLaVA."
-author: your_github_username
-url: "https://your_github_username.github.io/shoutcaster"
-baseurl: ""
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
