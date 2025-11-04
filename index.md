@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "AI Shoutcaster"
+permalink: /index.html
 ---
 
 # 🎮 AI Shoutcaster
